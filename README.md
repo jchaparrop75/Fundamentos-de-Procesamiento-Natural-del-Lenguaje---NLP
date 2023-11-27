@@ -1,4 +1,4 @@
-# Inteligencia-Artificial
+# Fundamentos del Procesamiento de Lenguaje Natural
 <img src="https://github.com/jchaparrop75/Inteligencia-Artificial/blob/main/Banner_CEEE.jpeg" alt="Alt text">
 
 ## **Introducción**
