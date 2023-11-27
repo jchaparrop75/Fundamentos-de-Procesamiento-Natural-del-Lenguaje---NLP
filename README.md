@@ -1,20 +1,8 @@
 # Inteligencia-Artificial
 <img src="https://github.com/jchaparrop75/Inteligencia-Artificial/blob/main/Banner_CEEE.jpeg" alt="Alt text">
 
-Este repositorio agrupa la información utilizada en un Curso de Inteligencia Artificial de Borde
+## **Introducción**
 
-$$
-y(t))=1
-$$
-## Titulo 1
-
-## **Prueba**
-
-Inserta video de Youtube
-[texto del enlace](https://www.youtube.com/watch?v=PLdecwVnewc)
-
-
-Introducción
 
 El lenguaje natural representa uno de los ingredientes claves en el desarrollo de los seres humanos. La capacidad de interactuar con otra personas ha permitido la interacción y cooperación en función de la expresión de pensamientos y sentimientos por medio de la palabra.
 
@@ -51,3 +39,5 @@ Cuando se tiene un modelo propuesto y los datos de entrenamiento es hora de ajus
 
 
 Todas la etapas del flujo de trabajo explicado en el párrafo anterior se pueden llevar a cabo en un entorno integrado de desarrollo (IDE). Existen diferentes opciones sin embrago la más práctica, y que utilizaremos en este curso, es la de Colabority de Google (Colab-Google). En las siguientes secciones hablaremos tanto del lenguaje de programación utilizado en el diseño de las redes neuronales (Python) y del entorno de desarrollo a utilizar en este curso
+
+[texto del enlace](https://www.youtube.com/watch?v=PLdecwVnewc)
