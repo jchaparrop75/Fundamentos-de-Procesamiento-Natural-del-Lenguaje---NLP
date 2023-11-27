@@ -22,13 +22,13 @@ Las tareas de la inteligencia artificial inicialmente fueron de clasificación, 
 
 Dentro del grupo de aplicaciones  del Procesamiento de Lenguaje Natural NLP son:
 
-Análisis de sentimiento en texto (películas, poesías, guiones, etc.).
-Análisis de contenido de correo y detección de spam.
-Categorización de contenido.
-Conversión de habla a texto y texto a habla.
-Resumen de documentos.
-Traducción entre idiomas.
-...
+* Análisis de sentimiento en texto (películas, poesías, guiones, etc.).
+* Análisis de contenido de correo y detección de spam.
+* Categorización de contenido.
+* Conversión de habla a texto y texto a habla.
+* Resumen de documentos.
+* Traducción entre idiomas.
+* ...
 Esta es un pequeña lista de un amplio espectro de posibilidades. De otro lado, para la creación de una solución con NLP se debe tener en cuenta el flujo de trabajo que aparece en la siguiente figura.
 Flujo de trabajo
 
