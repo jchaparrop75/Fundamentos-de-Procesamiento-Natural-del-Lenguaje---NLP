@@ -16,8 +16,7 @@ Es de esperar que la generación de información utilizando máquinas genere inc
 
 Las tareas de la inteligencia artificial inicialmente fueron de clasificación, regresión y agrupamiento. Desde hace más de 40 años se han propuesto varios modelos para hacer estas tareas, entre estos se encuentran vecinos cercanos, arboles de decisión, Naive-Bayes, regresión logística, máquinas de soporte vectorial y perceptrón multicapa. Es precisamente este último clasificador, el que dio inicio a las redes neuronales que hoy conocemos dentro de lo que se llama Deep Learning. 
 
-
-
+---
 **¿Y de los sistema de Procesamiento de Lenguaje Natural?**
 
 Dentro del grupo de aplicaciones  del Procesamiento de Lenguaje Natural NLP son:
