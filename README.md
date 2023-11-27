@@ -1,5 +1,6 @@
 # Inteligencia-Artificial
-<img src="/path/to/Banner" alt="Alt text">
+<img src="https://github.com/jchaparrop75/Inteligencia-Artificial/blob/main/Banner_CEEE.jpeg" alt="Alt text">
+
 Este repositorio agrupa la información utilizada en un Curso de Inteligencia Artificial de Borde
 
 $$
