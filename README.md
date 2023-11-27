@@ -1,4 +1,5 @@
 # Inteligencia-Artificial
+<img src="/path/to/Banner" alt="Alt text">
 Este repositorio agrupa la información utilizada en un Curso de Inteligencia Artificial de Borde
 
 $$
