@@ -18,7 +18,7 @@ Las tareas de la inteligencia artificial inicialmente fueron de clasificación, 
 
 
 
-¿Y de los sistema de Procesamiento de Lenguaje Natural?
+**¿Y de los sistema de Procesamiento de Lenguaje Natural?**
 
 Dentro del grupo de aplicaciones  del Procesamiento de Lenguaje Natural NLP son:
 
