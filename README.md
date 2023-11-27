@@ -1,4 +1,4 @@
-[Ir a inicio](https://github.com/jchaparrop75/Fundamentos-de-Procesamiento-Natural-del-Lenguaje---NLP/tree/Main)
+[Ir a inicio](https://github.com/jchaparrop75/Fundamentos-de-Procesamiento-Natural-del-Lenguaje---NLP/tree/main)
 # Fundamentos del Procesamiento de Lenguaje Natural
 <img src="Banner_CEEE.jpeg">
 
