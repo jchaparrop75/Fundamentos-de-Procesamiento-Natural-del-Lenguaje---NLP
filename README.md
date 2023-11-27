@@ -11,4 +11,6 @@ Este curso pretende introducir al estudiantes al facinante mundo del Procesamien
 ## **Requisitos**
 
 
+
+
 [texto del enlace](https://www.youtube.com/watch?v=PLdecwVnewc)
