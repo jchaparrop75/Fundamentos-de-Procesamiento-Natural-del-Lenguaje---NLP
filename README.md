@@ -42,3 +42,7 @@ Cuando se tiene un modelo propuesto y los datos de entrenamiento es hora de ajus
 Todas la etapas del flujo de trabajo explicado en el párrafo anterior se pueden llevar a cabo en un entorno integrado de desarrollo (IDE). Existen diferentes opciones sin embrago la más práctica, y que utilizaremos en este curso, es la de Colabority de Google (Colab-Google). En las siguientes secciones hablaremos tanto del lenguaje de programación utilizado en el diseño de las redes neuronales (Python) y del entorno de desarrollo a utilizar en este curso
 
 [texto del enlace](https://www.youtube.com/watch?v=PLdecwVnewc)
+
+Esta es una prueba
+
+
