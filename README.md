@@ -12,6 +12,7 @@ Este curso pretende introducir al estudiantes al facinante mundo del Procesamien
 ## **Requisitos**
 
 
+[Pagina de Introduccion](https://github.com/jchaparrop75/Fundamentos-de-Procesamiento-Natural-del-Lenguaje---NLP/tree/Introduccion)
 
 
 [texto del enlace](https://www.youtube.com/watch?v=PLdecwVnewc)
