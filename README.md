@@ -30,7 +30,7 @@ Dentro del grupo de aplicaciones  del Procesamiento de Lenguaje Natural NLP son:
 * ...
 Esta es un pequeña lista de un amplio espectro de posibilidades. De otro lado, para la creación de una solución con NLP se debe tener en cuenta el flujo de trabajo que aparece en la siguiente figura.
 Flujo de trabajo
-<img src="">
+<img src="FlowwarodNLP.png">
 
 
 Las tareas se pueden resumir asi:
